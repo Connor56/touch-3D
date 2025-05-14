@@ -58,3 +58,25 @@ A 3D game to help learn touch rugby plays, built with three.js.
   - `Team.js`: Team management
   - `Game.js`: Main game logic
   - `PlayDesigner.js`: Play designer interface
+
+# Future Features
+
+## Must Add
+
+- Make it possible to rotate the scene.
+- Make it obvious who has the ball.
+- Improve the player models.
+- Add an overall speed option to the settings, so that the plays happen faster or slower.
+- Add an option to make the player's decision on the correct move time pressured.
+- Add an option to make the game continue to evolve whilst the player is making a decision, just at a slower speed.
+- Add an option to control the speed at which a player runs, so when setting things up the coach can decide what players are moving at what speed.
+- Add an an option to label each of the players, with Left Wing, Left Link, Left Mid, Right Mid, Right Link, Right Wing.
+- Add a side panel in the play designer that lets the coach see all of these options, and lets them test run the play.
+
+## Stretch Goals
+
+- Allow a coach to create an account and save their plays, via firebase.
+- Allow a coach to download their plays as a pdf.
+- Allow a coach to download their plays as json.
+- Allow a coach to upload a json file and have it load as a play.
+- Add feature to turn a play into a 3D video animation.
